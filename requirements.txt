@@ -6,3 +6,5 @@ ragas
 pandas
 matplotlib
 nest-asyncio
+azure-ai-documentintelligence==1.0.0b2
+azure-storage-blob 
