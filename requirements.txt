@@ -1,0 +1,8 @@
+python-dotenv
+azure-search-documents=11.4.0
+langchain
+openai
+ragas
+pandas
+matplotlib
+nest-asyncio

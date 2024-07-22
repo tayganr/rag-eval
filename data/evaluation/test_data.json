@@ -1,0 +1,33 @@
+{
+    "question": [
+        "What was the purpose of the draft Coroners (Suspension of Requirement for Jury at Inquest: Coronavirus) Regulations 2024?",
+        "What concerns did Mr Barry Sheerman raise regarding the coronial system?",
+        "Why does the Ministry of Justice believe the disapplication provision should be extended?",
+        "What was Kevin Brennan's stance on the draft Coroners Regulations 2024?",
+        "What did Sir Robert Neill propose regarding the coronial system?"
+    ],
+    "contexts": [
+        [
+            "This instrument is an important part of the Government\u0092s ongoing support for coroner services in their continuing recovery from the covid-19 pandemic. It extends for a further two years the disapplication of the statutory requirement for any inquest into a death involving covid-19 to be held with a jury, which will have practical benefits for the coroner service."
+        ],
+        [
+            "Mr Barry Sheerman (Huddersfield) (Lab/Co-op): As the Minister may be aware, I had two tragic cases in my constituency involving an inquest. Does he not think it is about time that we modernised the whole system and gave it more resources? If somebody has lost a loved one, waiting for five or six years and never getting resolution is not good. Is it not about time that we looked at the process and the training and did something a bit faster for people?"
+        ],
+        [
+            "To evidence the need for extension of the provision, the Ministry of Justice asked all coroners in England and Wales to estimate their usage of the disapplication provision since June 2022 and to assess the impact on their case management if it is not extended. The response rate was only around 11%, but even among that small number of coroners, it was estimated that this provision has removed the requirement for a jury in around 530 inquests over the past two years."
+        ],
+        [
+            "We will not divide the House on this measure. Given the state of the backlog impacting the coronial system, this is a sensible measure and the Opposition will not contest it today. However, it is worth discussing very briefly the reasons for the backlog and the Government\u0092s complete inability to get a grip on any aspect of our justice system."
+        ],
+        [
+            "I hope that a future Government will revisit our recommendation that we should move to a national coroners service. That would ensure greater consistency and that the same service is provided to bereaved families right across the country, which is currently not the case."
+        ]
+    ],
+    "ground_truth": [
+        "The purpose was to extend for a further two years the disapplication of the statutory requirement for any inquest into a death involving covid-19 to be held with a jury.",
+        "Mr Barry Sheerman raised concerns about the delays in the coronial system, suggesting that it needs modernization and more resources to prevent long waits for resolution for bereaved families.",
+        "The Ministry of Justice believes the extension is needed because it has removed the requirement for a jury in around 530 inquests over the past two years, and not extending it would significantly impact case management for coroners.",
+        "Kevin Brennan supported the measure and stated that the Opposition would not contest it, although he criticized the Government for their inability to manage the justice system effectively.",
+        "Sir Robert Neill proposed moving to a national coroners service to ensure greater consistency and better service for bereaved families across the country."
+    ]
+}

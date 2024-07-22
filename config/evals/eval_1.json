@@ -1,0 +1,33 @@
+{  
+    "evaluation_metadata": {  
+        "evaluation_name": "Evaluation Run 1",
+        "evaluation_description": "First evaluation run with default settings"
+    },
+    "chunking_strategy": {  
+        "chunking_method": "split_by_tokens",
+        "chunking_parameters": {  
+            "max_chunk_size": 5000,
+            "overlap_size": 200
+        }  
+    },
+    "embedding_strategy": {  
+        "embedding_model_name": "text-embedding-ada-002",
+        "embedding_deployment_name": "text-embedding-ada-002"
+    },
+    "retrieval_strategy": {  
+        "search_run_configuration": {  
+            "search_type": "hybrid",
+            "top_k": 10  
+        }  
+    },
+    "generation_strategy": {  
+        "model_configuration": {  
+            "model_name": "gpt-4o",
+            "deployment_name": "gpt-4o",
+            "prompt_template": "prompt_v1.json",
+            "max_tokens": 150,
+            "temperature": 0.7,
+            "top_p": 0.9  
+        }  
+    }  
+}  

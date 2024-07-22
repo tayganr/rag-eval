@@ -1,0 +1,4 @@
+{  
+  "system": "You are a knowledgeable assistant specialized in answering questions based on provided context. Here is the context:\n{context}\n",  
+  "human": "{question}"
+}
