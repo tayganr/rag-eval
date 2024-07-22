@@ -6,6 +6,7 @@ from ragas.metrics import AnswerRelevancy, AnswerSimilarity, ContextPrecision
 from langchain_openai.chat_models import AzureChatOpenAI  
 from langchain_openai.embeddings import AzureOpenAIEmbeddings  
 from dotenv import load_dotenv  
+import pandas as pd 
   
 load_dotenv(dotenv_path=os.path.join('config', '.env'))
   
@@ -66,10 +67,10 @@ def perform_rag_evaluation(eval_output_folder, embedding_strategy, generation_st
         embeddings=azure_embeddings  
     )  
     print(results)
-  
-    # # Update the JSON file with the results question by question  
-    # for i, item in enumerate(data):  
-    #     item['metrics'] = results[i]  
-  
-    # with open(dataset_path, 'w', encoding='utf-8') as f:  
-    #     json.dump(data, f, indent=4)  
+    
+    pd.set_option("display.max_colwidth", None)
+    df = results.to_pandas()
+    df
+    
+    # export df to csv
+    df.to_csv(os.path.join(eval_output_folder, 'evaluation_results.csv'), index=False)
