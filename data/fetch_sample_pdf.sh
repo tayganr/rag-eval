@@ -7,5 +7,6 @@
 # -A pdf: only download pdf files
 # -nd: don't create directories
 
-wget -r -l 1 -A pdf -nd -P ./source_documents_pdf https://arxiv.org/pdf/2208.13773v1.pdf
+mkdir -p preprocessing/source_documents_pdf
+wget -r -l 1 -A pdf -nd -P ./preprocessing/source_documents_pdf https://arxiv.org/pdf/2208.13773v1.pdf
 

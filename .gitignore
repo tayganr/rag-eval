@@ -4,3 +4,4 @@ evaluations/*
 venv/*
 .venv/*
 __pycache__/*
+preprocessing/*

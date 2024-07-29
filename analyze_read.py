@@ -175,8 +175,7 @@ if __name__ == "__main__":
     from azure.core.exceptions import HttpResponseError
     from dotenv import find_dotenv, load_dotenv
 
-    #file_url = "https://arxiv.org/pdf/2208.13773v1.pdf"
-    file_url = "https://lcmgutilstorage.blob.core.windows.net/sample-pdfs/2208.13773v1.pdf?sp=r&st=2024-07-22T14:06:04Z&se=2024-07-22T22:06:04Z&spr=https&sv=2022-11-02&sr=b&sig=iIn25HJxFkQhcXf1GkrkVv96Jeo3xF6i0Xgs14Zotuk%3D"
+    file_url = "https://arxiv.org/pdf/2208.13773v1.pdf"
 
     try:
         load_dotenv('./config/.env')
