@@ -1,0 +1,55 @@
+ Energy
+
+11:59:00
+
+Robert Largan (High Peak) (Con)
+I beg to move,
+
+That the draft Energy Act 2023 (Consequential Amendments) Regulations 2024, which were laid before this House on 13 May, be approved.
+
+This instrument is technical in nature. It uses the power in section 330 of the Energy Act 2023 to make various amendments as a consequence of the passing of that Act. The majority of the amendments relate to the independent system operator and planner, or ISOP, while most others relate to the governance of the gas and electricity codes. There are other minor amendments to the provisions relating to the hydrogen levy, competition in onshore electricity projects, and heat networks.
+
+The ISOP will be an expert and impartial body, with responsibilities across the electricity and gas systems, to provide progress towards net zero while maintaining energy security and minimising costs for consumers. With roles across the energy system, the ISOP will help to plan and deliver the integrated system needed to ensure our energy security, net zero and affordability goals. It will be independent not only of other commercial energy interests, but from the operational control of the Government, meaning that it will be in a position to use its expertise to advice the Government and Ofgem on the critical decisions ahead.
+
+Two types of amendments are needed to give the ISOP a stable legislative footing. The first is to reflect its public nature—a shift from the current ownership by National Grid—by, for example, adding the ISOP to the list of organisations to which the Freedom of Information and Public Record Acts apply. The second reflects the fact that, unlike the current electricity systems operator, which holds a transmission licence, the ISOP will hold an electricity system operator licence and a gas system planner licence. That will require updates in energy legislation to ensure that reference is made to the new ISOP licences, which will ensure continuity. Examples include updating the Energy Act 2013 so that the ISOP can continue the ESO’s current work as the contract for difference counter party. It is worth noting that none of these changes will come into effect until the ISOP is created, and current legislative reference will remain whilst the ESO continues to operate the electricity system.
+
+Changes will also be made in legislation in relation to code governance reform. The Competition and Markets Authority has previously highlighted concerns regarding certain aspects of code governance. Under the new system, the existing code administrators and industry planners will be replaced by code managers, who will be selected and licensed by Ofgem. Those code managers will be directly accountable to Ofgem, and their responsibilities will include making recommendations and, in some cases, decisions on modifications to the codes.
+
+This statutory instrument enacts the necessary consequential changes across legislation to reflect the new governance framework and licensing regime. An amendment to the Gas (Northern Ireland) Order 1996 is made to ensure that the right primary legislation is in place should the Government decide to introduce the hydrogen gas shipper levy in Northern Ireland. I commend the regulations to the House.
+
+12:03:00
+
+Jeff Smith (Manchester, Withington) (Lab)
+I will start my brief remarks with a few words about my hon. Friend the Member for Southampton, Test (Dr Whitehead), who would ordinarily be speaking to this motion and is standing down at the election. I appreciate that “brief remarks” and “few words” are not phrases that we would usually associate with my hon. Friend, but there is a good reason for that. He is one of those parliamentarians who have a really deep knowledge of his subject and are completely across his brief. He has campaigned on these issues for many years in this place, and has played a vital role in informing Labour policy for the future. Whenever I met stakeholders during my brief tenure in the energy and net zero team, it was very clear that he was widely respected by everybody in energy and net zero, as well as across this House. We wish him all the very best for the future. Parliament will miss his expertise and his commitment to tackling climate change.
+
+Turning to the motion, we do not intend to object to this instrument, as the measures are generally consequential to elements of the Energy Act 2023, which we supported. The creation of a new body, ISOP, now the National Energy System Operator, is essential to managing and planning the expansion and operation of our energy system as we transition to net zero. Labour called for the creation of this body as a “system architect”. We have been encouraged by the early steps the current Electricity System Operator has made in preparing for its new role. We therefore agree that establishing its legislative basis fully is an urgent priority, and I am glad we have managed to address that in the wash-up.
+
+We also have no objections to the new governance framework for gas and electricity codes. We support establishing the Ofgem-licensed code manager role, as it is a sensible improvement to the current system, given the importance of gas and electricity codes to the smooth technical operation of our energy system. Other miscellaneous amendments in this statutory instrument include those made as a result of the Energy Act’s provision to regulate heat networks and create heat network zones. Heat network regulation has for too long been a blind spot, and some consumers have had to pay significantly higher bills as a result. So I emphasise again how important these new regulations are, and I hope that we can make sure they are in force as soon as possible in the next Parliament, whatever composition it might have.
+
+Finally, Madam Deputy Speaker, let me say that you are my favourite Deputy Speaker. I thank you for your service to this House and to the people of Doncaster, and for the great support you have given to me in my nine years here and to many Labour colleagues. We all wish you all the very best for the future.
+
+Madam Deputy Speaker (Dame Rosie Winterton)
+I call the Scottish National party spokesperson.
+
+12:06:00
+
+Kirsty Blackman (Aberdeen North) (SNP)
+Please accept my apologies for not putting in to speak on this measure, Madam Deputy Speaker; you will understand that it has been a hectic couple of days and I therefore hoped that my bobbing would be sufficient.
+
+Obviously, the SNP is not going to oppose this measure. We support the need for energy reform. When we look at the inflation figures, we see that they are so heavily influenced by the cost of energy. Market reform has been overdue for quite a long time, particularly in respect of heat networks, given, as the Opposition spokesperson mentioned, the increase in their amount. In my constituency, we have Aberdeen Heat &amp; Power, an incredible and well-embedded heat network that supplies a significant number of council properties in the city. I would go as far as to say that it is one of the leading heat networks, because of the sheer number of properties it is able to supply. It gives cheaper energy to those properties, which is incredibly important.
+
+We have made the case, as have significant numbers of campaigners, on things such as standing charges, particularly for electricity and gas; we have raised the concerns about the energy price cap and the fact that it does not give a reduction in that respect. We are aware that in October we are again likely to see an increase in the energy price and that people who have managed to find things a little easier over the summer may find them even more difficult this winter, because of the potential for increases. We will continue to make the case—the Minister would assume that I will—that Scotland has the power when it comes to energy but we do not have the powers to make the changes that we would like to see to ensure a fairer deal across these islands when people pay for electricity and gas. I am talking about the prices people are paying in their homes when those bills come through the door. We are seeing higher levels of standing changes in Scotland and of charges for organisations looking to connect to the grid. Frankly, we do not think that situation is fair and we would like to see changes made. However, we are pleased to see that the Government are moving towards reform and that this SI has been included in the wash-up process—it is good to see the Government prioritising it. I appreciate that the Minister has pushed for it and has taken the time to move it today.
+
+12:08:00
+
+Robert Largan
+Let me briefly sum up. First, let me associate myself with the remarks made by the hon. Member for Manchester, Withington (Jeff Smith) about you, Madam Deputy Speaker, and about the hon. Member for Southampton, Test (Dr Whitehead). As a Whip standing in as a Minister, I do not think I would be revealing any secrets to say that he has sometimes been a source of frustration for those on the Treasury Bench. However, we could never doubt his level of detailed knowledge and his commitment to public service, and we wish him the very best in the future.
+
+I also thank the hon. Member for Manchester, Withington and the hon. Member for Aberdeen North (Kirsty Blackman) for indicating the support of those on the Opposition Benches for these regulations. The hon. Gentleman will not realise this, but many years ago he was my local councillor when I lived in south Manchester, and I always enjoyed getting his leaflets through my door.
+
+As I have said, while broadly administrative in nature, these changes will be vital for the creation of the ISOP for energy code reform and the continued development of the energy sector towards net zero.
+
+Finally, these may well be my final few words in this House. This is, as they say, it. Serving in this place is an honour and a privilege that few experience. I have done my best. It is all that anybody can do.
+
+Question put and agreed to.
+

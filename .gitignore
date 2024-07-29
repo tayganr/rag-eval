@@ -2,4 +2,5 @@ config/.env
 evaluations/*
 .DS_Store
 venv/*
+.venv/*
 __pycache__/*
