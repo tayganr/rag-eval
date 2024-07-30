@@ -26,6 +26,7 @@ def main(config_path):
     retrieval_strategy = config.get("retrieval_strategy", {})  
     generation_strategy = config.get("generation_strategy", {})  
   
+ 
     # Load test data  
     test_data_path = os.path.join('data', 'evaluation', 'test_data.json')  
     test_data = load_test_data(test_data_path)  
@@ -42,7 +43,7 @@ def main(config_path):
   
     try:  
         # # Chunking  
-        documents_folder = 'data/source_documents_txt'  
+        documents_folder = metadata.get("source_documents_folder", "data/source_documents_txt") 
         process_documents(documents_folder, chunking_strategy, eval_output_folder)  
   
         # # Embedding  
@@ -63,6 +64,9 @@ def main(config_path):
         # end_time = time.time()  
         # log_evaluation(metadata, start_time, end_time, chunking_strategy, embedding_strategy, retrieval_strategy, generation_strategy, results)  
   
+        if metadata.get("source_documents_folder") == "data/setup_test_doc_txt":
+            print("######################## \nSET UP TEST COMPLETE. \n######################## \nPlease update the source_documents_folder in the config file to run the full evaluation. ")
+ 
     except Exception as e:  
         print(f"An error occurred during evaluation: {e}")  
   
